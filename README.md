@@ -1,16 +1,17 @@
-### Hi there 👋
+###  Boas vindas ao meu perfil 💙
 
-<!--
-**luiz301179/luiz301179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Luiz Henrique
 
-Here are some ideas to get you started:
+-Estou estudando na Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo uma linguagem JavaScript
+
+-Utilizo esse espaçopara minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você entrar em contato comigo📫
+
+00001093654727sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/6Rk6Z96eMIoAAAAC/gear-5-one-piece.gif)
+
+
